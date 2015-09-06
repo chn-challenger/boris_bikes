@@ -30,3 +30,5 @@ class DockingStation
     bikes == []
   end
 end
+
+##test private
